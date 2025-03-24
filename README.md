@@ -13,7 +13,7 @@ A simple **Digital Clock** built using **HTML, CSS, and JavaScript**.
 ## 📸 Screenshot
 
 ![Digital Clock Preview](./Screenshot%202025-03-24%20073104.png)  
-*(Add a screenshot of your clock here)*
+
 
 ## 🛠️ Technologies Used
 
@@ -21,5 +21,4 @@ A simple **Digital Clock** built using **HTML, CSS, and JavaScript**.
 - **CSS** – Styling for a sleek look
 - **JavaScript** – Real-time clock functionality
 
-## 📂 File Structure
 
