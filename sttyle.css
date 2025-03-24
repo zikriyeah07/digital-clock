@@ -1,0 +1,40 @@
+
+body {
+  background-color: #212121;
+  color: #fff;
+}
+.center {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#clock {
+  font-size: 4vh;
+  background-color: orange;
+  padding: 20px 50px;
+     margin-top: 10px;
+  border-radius: 10px;
+  transition-duration: 0.5s;
+
+  &:hover{
+    box-shadow: -8px -3px 75px -24px rgba(240, 217, 12, 0.842);
+  }
+}
+
+.currentdate{
+  display: inline-block;
+  color: yellow;
+  font-family: cursive;
+  font-size: 3vh;
+  padding: 0px;
+  margin: 0px;
+}
+
+#codeby{
+  position: absolute;
+  bottom: 0px;
+  left: 3px;
+  font-family: cursive;
+}
